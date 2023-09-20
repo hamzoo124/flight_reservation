@@ -1,0 +1,63 @@
+
+#text{
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 72px;
+    background: -webkit-linear-gradient(blue,pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+} 
+#tripma{
+    font-size: 30px;
+    background: -webkit-linear-gradient(blue,pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+/* }
+#cardrow{
+    width: 80%;
+    margin: auto;
+} */
+
+#card1 img{
+    height: 300px;
+    gap: 20px;
+}
+#card2 img{
+   
+    height: 300px;
+
+}
+#card3 img{
+    height: 300px;
+    display: inline-block;
+
+}
+.spn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+}
+ .card a{
+    text-decoration: none;
+}
+#kania img{
+    height: 400px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+  }
+  ul{
+    list-style: none;
+  }
+  #awsom li{
+    display: inline-block;
+    padding: 10px;
+  }
+ 
